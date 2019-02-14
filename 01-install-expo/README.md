@@ -29,13 +29,25 @@ expo init todoapp
 
 ![Choose a template](images/choose_template.png)
 
-### Yarnの設定
+### ワークフローの選択
 
+今回は、Javascriptのみを使うので、`managed`を指定します。
+
+![Choose a workflow](images/choose_workflow.png)
+
+### ホーム画面に表示する名前を指定
+
+今回は、`Todo App`と入力してEnterを押してください。
+
+![Enter name](images/enter_name.png)
+
+### Yarnの設定
+ 
 今回は、Yarnを使わないので、`N`を入力します。
 Noの場合は、npmを使います。
-
+ 
 出力結果
-
+ 
 ```
 ? Yarn v1.7.0 found. Use Yarn to install dependencies? No
 ```
