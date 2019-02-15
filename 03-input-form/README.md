@@ -143,7 +143,7 @@ const styles = StyleSheet.create({
 
 コードを修正後、ファイルを保存すれば自動で変わります。
 
-Tips: 赤い画面で、renderエラーの表示がされたら、`CTRL + r`で何度かリロードしてみてください。
+Tips: 赤い画面で、renderエラーの表示がされたら、`CTRL + r`か、端末を降ってメニューから何度かリロードしてみてください。
 
 ![](./images/input_form.png)
 

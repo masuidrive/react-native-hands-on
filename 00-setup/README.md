@@ -59,3 +59,15 @@ expo-cli --version
 ```
 2.10.1
 ```
+
+
+## PC/Mac上のエミュレータをインストールする
+
+### MacOSのiPhone Simulatorをインストールする
+[macOS AppStore](https://itunes.apple.com/jp/app/xcode/id497799835?l=en&mt=12)からインストールしてください。
+
+### Android Studio Emulatorをインストールする
+
+[Android Studio](https://developer.android.com/studio/install?hl=ja)を、インストールしてください。
+
+その後、[Android Studio Emulatorのインストールと設定](https://docs.expo.io/versions/v32.0.0/workflow/android-studio-emulator/)([Google翻訳](https://translate.google.com/translate?sl=auto&tl=ja&u=https%3A%2F%2Fdocs.expo.io%2Fversions%2Fv32.0.0%2Fworkflow%2Fandroid-studio-emulator%2F))をしてください。
