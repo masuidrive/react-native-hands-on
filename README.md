@@ -9,6 +9,15 @@
 - React
 - Javascript/ES2015(ES6)
 
+# 参考資料
+- [@besutomeさんのReact Native ハンズオン資料](https://github.com/besutome/slides/tree/master/20180414-RNHandson)
+- [React Native入門完全版「いきなりデート」のアプリをReact Nativeで開発した知見をまとめます。](https://qiita.com/gogotanaka/items/07f9f5ed8e93a47a8bcd)
+- [【随時更新】2018年にReact Nativeを始める人におすすめ26選](https://qiita.com/yutasuzuki/items/046e120eac9b20bed487)
+- [React Native Advent Calendar 2018](https://qiita.com/advent-calendar/2018/react-native)
+- [【翻訳】Sunsetting React Native - Studio Andy](http://studio-andy.hatenablog.com/entry/sunsetting-react-native)
+- [React Native で iOS / Android アプリ開発をゼロから始めよう！ | Udemy](https://www.udemy.com/react-native-ios-android/)
+- [実践的！作って学ぶReactNative入門 | Udemy](https://www.udemy.com/startup-reactnative/)
+
 # ハンズオン用の完成版
 
 https://github.com/saicologic/todoapp
