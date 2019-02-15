@@ -61,7 +61,7 @@ expo-cli --version
 ```
 
 
-## PC/Mac上のエミュレータをインストールする
+## PC/Mac上のエミュレータをインストールする（オプション）
 
 ### MacOSのiPhone Simulatorをインストールする
 [macOS AppStore](https://itunes.apple.com/jp/app/xcode/id497799835?l=en&mt=12)からインストールしてください。
