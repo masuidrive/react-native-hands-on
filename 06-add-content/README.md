@@ -24,7 +24,6 @@ class Firebase {
   constructor(config = {}) {
     firebase.initializeApp(config);
     this.firestore = firebase.firestore();
-    this.firestore.settings({ timestampsInSnapshots: true });
   }
 }
 
