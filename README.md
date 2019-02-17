@@ -17,6 +17,8 @@
 - [【翻訳】Sunsetting React Native - Studio Andy](http://studio-andy.hatenablog.com/entry/sunsetting-react-native)
 - [React Native で iOS / Android アプリ開発をゼロから始めよう！ | Udemy](https://www.udemy.com/react-native-ios-android/)
 - [実践的！作って学ぶReactNative入門 | Udemy](https://www.udemy.com/startup-reactnative/)
+- [Awesome React Native](http://www.awesome-react-native.com)
+- [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 
 # ハンズオン用の完成版
 
