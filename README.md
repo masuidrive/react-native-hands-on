@@ -1,8 +1,9 @@
 # React Native Hands-on
 
 - React Nativeに入門するためのハンズオンです
+- 特別な開発環境は必要なく、ブラウザとスマホだけで開発します。
 - シンプルなTODOアプリケーションを段階的に実装していきます
-- ReactNativeの開発をより簡単におこなうために[Expo](https://expo.io/)を利用します。
+- ReactNativeの開発をより簡単におこなうために[Expo](https://expo.io/)と[Expo Snack](https://snack.expo.io)を利用します。
 - TODOを保存するデータベースには、Googleが提供してる[Firebase](https://firebase.google.com/?hl=ja)を利用します。
 
 # 必要な知識
@@ -10,6 +11,7 @@
 - Javascript/ES2015(ES6)
 
 # 参考資料
+- [@saicologicさんのReact Native Hands-on資料](https://github.com/saicologic/react-native-hands-on) 元ネタです
 - [@besutomeさんのReact Native ハンズオン資料](https://github.com/besutome/slides/tree/master/20180414-RNHandson)
 - [React Native入門完全版「いきなりデート」のアプリをReact Nativeで開発した知見をまとめます。](https://qiita.com/gogotanaka/items/07f9f5ed8e93a47a8bcd)
 - [【随時更新】2018年にReact Nativeを始める人におすすめ26選](https://qiita.com/yutasuzuki/items/046e120eac9b20bed487)
